@@ -2796,6 +2796,10 @@ ul {
 }
 
 /* Icon Tabs */
+HowIcon1 {
+	background-image: url(<img src="img/assets/contact.png);
+}
+
 #iconTabs li.active a,
 #iconTabs li a {
 	background-color: transparent;
@@ -4111,6 +4115,11 @@ ul {
 }
 
 /*---------- CONTACT FORM ----------*/
+.contact col-md-9 {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .contact fieldset {
 	width: 49%;
 	display: inline-block;
